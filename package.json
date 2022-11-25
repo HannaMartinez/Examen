@@ -1,13 +1,13 @@
 {
   "name": "examen_3",
   "version": "1.0.0",
-  "description": "",
+  "description": "Este es el codigo de mi examen para la 3ra unidad",
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/index.js --exec babel-node"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rodriguez Marinez Hanna Mishel",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
